@@ -13,8 +13,3 @@ The MASS software environment coordinates multi-agents in a distributed memory f
 # Provenance Capture Instrumentation #
 
 Provenance capture takes place through procedural instrumentation within the MASS framework and any multi-agent / spatial model classes.
-
-# Project Contents and Deployment #
-
-The ProvMASS project is 
-
